@@ -1,0 +1,9 @@
+easyocr==1.7.1
+gTTS==2.5.1
+opencv_contrib_python==4.6.0.66
+opencv_python==4.6.0.66
+opencv_python_headless==4.9.0.80
+paddleocr==2.7.3
+paddleocr.egg==info
+pyglet==2.0.15
+Requests==2.32.2
